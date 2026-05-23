@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri May 22 18:36:48 2026 
+Best design point: 1
+Design specs: 
+	Omar:TB:1	corner	Nominal - 
+	TH		475.2p
+	TL		481.7p
+	Delay		478.4p
+	abs(average((VT("/VDD") * IT("/V0/PLUS"))))		Error	No
+Design parameters: 
+
+Interactive.6
+Number of points completed: 1
+Number of simulation errors: 1
+Interactive.6 completed. 
+Current time: Fri May 22 18:36:52 2026 
