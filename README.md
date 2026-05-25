@@ -7,7 +7,7 @@
 
 <br/><br/>
 
-# 🔬 CMOS Inverter — 4-Stage Delay Line Circuit
+#  CMOS Inverter — 4-Stage Delay Line Circuit
 ### IC Layout Project · ECE 326 – Integrated Circuits
 
 *Full IC design flow from schematic to post-layout verification using Cadence Virtuoso on TSMC 65nm process*
