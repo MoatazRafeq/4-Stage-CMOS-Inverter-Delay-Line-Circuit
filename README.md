@@ -117,7 +117,7 @@ Vin ──► [INV 1] ──► [INV 2] ──► [INV 3] ──► [INV 4] ─�
 
 ```mermaid
 flowchart LR
-    A[📐 Schematic\nDesign] --> B[🔬 Pre-Layout\nSimulation]
+    A[ Schematic\nDesign] --> B[🔬 Pre-Layout\nSimulation]
     B --> C[🗺️ Physical\nLayout]
     C --> D{DRC\nCheck}
     D -- Errors --> C
